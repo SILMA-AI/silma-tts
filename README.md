@@ -1,12 +1,12 @@
 
-# SILMA TTS: A Lightweight Open Bilingual (Arabic - English) Text to Speech Model 
+# SILMA Arabic TTS: A Lightweight Open Bilingual Text to Speech Model 
 
 
 [![HF](https://img.shields.io/badge/-%F0%9F%A4%97%20Hugging%20Face-black)](https://huggingface.co/silma-ai/silma-tts)
 [![hfspace](https://img.shields.io/badge/🤗-HF%20Space-yellow)](https://huggingface.co/spaces/silma-ai/silma-tts-v1-demo)
 
 
-**SILMA TTS v1** is a high-performance, **150M-parameter** bilingual (Arabic/English) TTS model developed by [SILMA AI](https://silma.ai). Built on the cutting-edge **F5-TTS diffusion architecture**, the model was **pretrained from scratch** using tens of thousands of hours of high-quality public and proprietary data. To give back to the community, SILMA TTS is released under a highly permissive license, making state-of-the-art speech synthesis accessible for both **research and commercial use**.
+**SILMA Arabic TTS v1** is a high-performance, **150M-parameter** bilingual (Arabic & English) TTS model developed by [SILMA AI](https://silma.ai). Built on the cutting-edge **F5-TTS diffusion architecture**, the model was **pretrained from scratch** using tens of thousands of hours of high-quality public and proprietary data. To give back to the community, SILMA TTS is released under a highly permissive license, making state-of-the-art speech synthesis accessible for both **research and commercial use**.
 
 
 ## Features
