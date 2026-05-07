@@ -1,5 +1,5 @@
 
-# SILMA TTS: A Lightweight Open Bilingual Text to Speech Model 
+# SILMA TTS: A Lightweight Open Bilingual (Arabic - English) Text to Speech Model 
 
 
 [![HF](https://img.shields.io/badge/-%F0%9F%A4%97%20Hugging%20Face-black)](https://huggingface.co/silma-ai/silma-tts)
