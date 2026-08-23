@@ -8,6 +8,8 @@
 
 **SILMA Arabic TTS v1** is a high-performance, **150M-parameter** bilingual (Arabic & English) TTS model developed by [SILMA AI](https://silma.ai). Built on the cutting-edge **F5-TTS diffusion architecture**, the model was **pretrained from scratch** using tens of thousands of hours of high-quality public and proprietary data. To give back to the community, SILMA TTS is released under a highly permissive license, making state-of-the-art speech synthesis accessible for both **research and commercial use**.
 
+Note: If you’re looking for our proprietary cloud TTS models (ex: SILMA V2), please visit the page below: [https://silma.ai/arabic-text-to-speech](https://silma.ai/arabic-text-to-speech)
+
 
 ## Features
 
