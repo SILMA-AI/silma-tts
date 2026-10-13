@@ -40,6 +40,39 @@ pip install silma-tts
 
 ```
 
+
+### Mac workaround
+
+SILMA TTS has certain dependencies that can prevent installation on macOS. Below is a workaround to install our pip package on Mac.
+
+```bash
+Install workaround
+conda create -n silma-tts-test python=3.12.5 -y
+
+conda activate silma-tts-test
+
+conda install -c conda-forge pynini -y
+
+pip install onnxruntime
+
+pip install --no-deps silma-tts catt-tashkeel==1.0.2 nemo_text_processing==1.1.0
+
+pip install "numpy<=1.26.4" tqdm
+cached_path click "ema_pytorch>=0.5.2" gradio "hydra-core>=1.3.0" librosa matplotlib
+pydub safetensors soundfile tomli "torch>=2.0.0" "torchaudio>=2.0.0" "torchvision>=0.21"
+torchcodec torchdiffeq transformers transformers_stream_generator unidecode vocos
+"x_transformers>=1.31.14"
+cdifflib editdistance inflect joblib pandas regex "sacremoses>=0.0.43" "setuptools>=65.5.1" wget wrapt
+
+Start application UI
+Run the following command:
+
+silma-tts-app
+
+Then open the following url: http://127.0.0.1:7860/
+```
+
+
 ### From source
 
 ```bash
