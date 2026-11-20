@@ -222,6 +222,7 @@ Unfortunately we don't have the capacity to actively support this repo. We also 
 ## License
 1. Code: MIT License
 2. Model Weights: Apache-2.0 License
+3. Default reference voice: **Do not use commercially** — for demonstration purposes only. For commercial use cases, you may use **“silma-ref-voice-commercial.wav”** or any other voice file for which you have an appropriate license.
 
 
 ## Disclaimer
